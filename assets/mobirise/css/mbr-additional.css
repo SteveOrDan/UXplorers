@@ -766,7 +766,7 @@ a {
 }
 .cid-tRUMI7FfsE .dropdown-menu,
 .cid-tRUMI7FfsE .navbar.opened {
-  background: #6ec7f2 !important;
+  background: #22668d !important;
 }
 .cid-tRUMI7FfsE .nav-item:focus,
 .cid-tRUMI7FfsE .nav-link:focus {
@@ -801,7 +801,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #6ec7f2;
+  background: #22668d;
 }
 .cid-tRUMI7FfsE .navbar.opened {
   transition: all 0.3s;
@@ -827,7 +827,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tRUMI7FfsE .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3rem);
   }
 }
 .cid-tRUMI7FfsE .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -951,7 +951,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tRUMI7FfsE .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #6ec7f2;
+  background: #22668d;
 }
 .cid-tRUMI7FfsE .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1071,11 +1071,11 @@ a {
   top: 0;
 }
 .cid-tRU8zDAxZO .mbr-section-title {
-  color: #eff2f1;
+  color: #ffffff;
 }
 .cid-sFGBbGYuTc {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 7rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
 .cid-sFGBbGYuTc .item {
@@ -1098,7 +1098,7 @@ a {
   padding-top: 6px;
 }
 .cid-sFGBbGYuTc .icon-box {
-  background: #4059ad;
+  background: #8ecddd;
   width: 60px;
   min-width: 60px;
   height: 60px;
@@ -1118,10 +1118,10 @@ a {
   content: "\e925";
   font-family: Moririse2 !important;
   position: absolute;
-  font-size: 32px;
+  font-size: 40px;
   left: 50%;
   top: 120%;
-  color: #4059ad;
+  color: #8ecddd;
   transform: translate(-50%, 0);
 }
 .cid-sFGBbGYuTc span {
@@ -1146,22 +1146,22 @@ a {
 }
 .cid-sFGBbGYuTc .card-title,
 .cid-sFGBbGYuTc .card-box {
-  color: #000000;
+  color: #ffb148;
 }
 .cid-sFGBbGYuTc .icon-text {
-  color: #000000;
+  color: #8b5000;
 }
 .cid-sFGBbGYuTc .icon-title {
-  color: #000000;
+  color: #ffb148;
 }
 .cid-sFGBbGYuTc .mbr-text,
 .cid-sFGBbGYuTc .mbr-section-btn {
-  color: #000000;
+  color: #8b5000;
 }
 .cid-tRVukXKOy2 {
-  padding-top: 6rem;
+  padding-top: 5rem;
   padding-bottom: 7rem;
-  background: #6b9ac4;
+  background: #ffffff;
 }
 .cid-tRVukXKOy2 .mbr-fallback-image.disabled {
   display: none;
@@ -1183,7 +1183,7 @@ a {
   transform: translateY(-10px);
 }
 .cid-tRVukXKOy2 .card-wrap {
-  background: #4059ad;
+  background: #8caff0;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
@@ -1309,6 +1309,10 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 .cid-tRVukXKOy2 .mbr-section-title {
+  color: #4479d9;
+}
+.cid-tRVukXKOy2 .card-title,
+.cid-tRVukXKOy2 .social-row {
   color: #ffffff;
 }
 .cid-tRUSNEMOgo {
@@ -1404,7 +1408,7 @@ a {
 }
 .cid-tRUMI7FfsE .dropdown-menu,
 .cid-tRUMI7FfsE .navbar.opened {
-  background: #6ec7f2 !important;
+  background: #22668d !important;
 }
 .cid-tRUMI7FfsE .nav-item:focus,
 .cid-tRUMI7FfsE .nav-link:focus {
@@ -1439,7 +1443,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #6ec7f2;
+  background: #22668d;
 }
 .cid-tRUMI7FfsE .navbar.opened {
   transition: all 0.3s;
@@ -1465,7 +1469,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tRUMI7FfsE .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3rem);
   }
 }
 .cid-tRUMI7FfsE .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1589,7 +1593,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tRUMI7FfsE .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #6ec7f2;
+  background: #22668d;
 }
 .cid-tRUMI7FfsE .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2126,7 +2130,7 @@ a {
 }
 .cid-tRUMI7FfsE .dropdown-menu,
 .cid-tRUMI7FfsE .navbar.opened {
-  background: #6ec7f2 !important;
+  background: #22668d !important;
 }
 .cid-tRUMI7FfsE .nav-item:focus,
 .cid-tRUMI7FfsE .nav-link:focus {
@@ -2161,7 +2165,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #6ec7f2;
+  background: #22668d;
 }
 .cid-tRUMI7FfsE .navbar.opened {
   transition: all 0.3s;
@@ -2187,7 +2191,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tRUMI7FfsE .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.5rem);
+    max-height: calc(98.5vh - 3rem);
   }
 }
 .cid-tRUMI7FfsE .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2311,7 +2315,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tRUMI7FfsE .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #6ec7f2;
+  background: #22668d;
 }
 .cid-tRUMI7FfsE .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;

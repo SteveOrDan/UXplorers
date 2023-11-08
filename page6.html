@@ -64,10 +64,10 @@
         if (y > img.height - lens.offsetHeight) {y = img.height - lens.offsetHeight;}
         if (y < 0) {y = 0;}
         /*set the position of the lens:*/
-        lens.style.left = x + "px";
-        lens.style.top = y + "px";
+        //lens.style.left = x + "px";
+        //lens.style.top = y + "px";
         /*display what the lens "sees":*/
-        result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy) + "px";
+        result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy ) + "px";
       }
       function getCursorPos(e) {
         var a, x = 0, y = 0;
@@ -153,6 +153,7 @@
         <div class="media-container-row">
             <div class="img-zoom-container">
                 <br><br>
+                <h6 class="mbr-item-subtitle mbr-fonts-style align-center mb-2 mt-2 display-7" mbr-if="showItemSubtitle"><a href="page3.html#gallery5-1b" class="text-black">Torna indietro</a></h6>
                 <img id="myimage" src="assets/images/brainstorming-bisogni-506x906.png" width="253" height="453">
                 <div id="myresult" class="img-zoom-result"></div>
                 <br><br><br><br><br><br><br><br><br><br><br>

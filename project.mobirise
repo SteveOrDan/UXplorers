@@ -72,9 +72,7 @@
     "screenshot": "screenshot.png",
     "dppsSwitcher": true,
     "spellingSwitch": true,
-    "site_lang": "en",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/danie/Desktop/Publish%20sito"
+    "site_lang": "en"
   },
   "pages": {
     "index.html": {
